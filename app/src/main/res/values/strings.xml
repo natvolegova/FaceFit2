@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FaceFit2</string>
+    <string name="tv_minuts">минут</string>
+    <string name="tv_count">упражнение</string>
+    <string name="tv_count2">упражнения</string>
+    <string name="tv_count3">упражнений</string>
+    <string name="btn_run_program">Выполнить комплекс</string>
+    <string name="tv_products_in_program">Необходимая продукция</string>
+</resources>
